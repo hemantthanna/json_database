@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 23,
+	"Contact": "6464646464",
+	"Company": "Facebook",
+	"Address": {
+		"City": "banglore",
+		"State": "karnataka",
+		"Country": "USA",
+		"Pincode": 456224
+	}
+}

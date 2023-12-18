@@ -1,0 +1,12 @@
+{
+	"Name": "Pomodo",
+	"Age": 23,
+	"Contact": "6464646464",
+	"Company": "Remote-Teams",
+	"Address": {
+		"City": "banglore",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 456224
+	}
+}

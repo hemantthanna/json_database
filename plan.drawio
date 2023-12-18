@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2023-12-15T18:41:51.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cp1VUcZOBDyjRytzTVKp" version="22.1.11" type="device">
+  <diagram name="Page-1" id="Hneo6S7p4hKdpMSRIi7G">
+    <mxGraphModel dx="2594" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Critical Development path&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-3" target="CZy4eMTzpqDGs0Q_9S6_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-3" value="logic to create data types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-4" target="CZy4eMTzpqDGs0Q_9S6_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-4" value="logic to write data to database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-5" target="CZy4eMTzpqDGs0Q_9S6_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-5" value="logic to create files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-6" value="logic to write into files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-12" value="logic to read single record from db" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-13" value="logic to read all records from db" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-14" value="logic to delete all records from db" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-15" value="logic to delete single record from db" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-16" target="CZy4eMTzpqDGs0Q_9S6_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-16" target="CZy4eMTzpqDGs0Q_9S6_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-16" target="CZy4eMTzpqDGs0Q_9S6_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-16" target="CZy4eMTzpqDGs0Q_9S6_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-16" target="CZy4eMTzpqDGs0Q_9S6_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;driver&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-17" value="read" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-18" value="read all" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="790" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-19" value="delete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="840" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-20" value="delete all" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="890" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-21" value="write" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="940" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CZy4eMTzpqDGs0Q_9S6_-28" target="CZy4eMTzpqDGs0Q_9S6_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Maintaining data integrity&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1100" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CZy4eMTzpqDGs0Q_9S6_-29" value="READ AND WRITE OPERATIONS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

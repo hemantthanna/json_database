@@ -1,0 +1,12 @@
+{
+	"Name": "Tanjiro",
+	"Age": 88,
+	"Contact": "6464646464",
+	"Company": "Dominate",
+	"Address": {
+		"City": "banglore",
+		"State": "Mumbai",
+		"Country": "india",
+		"Pincode": 333333
+	}
+}

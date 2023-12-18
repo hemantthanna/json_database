@@ -1,0 +1,12 @@
+{
+	"Name": "ray",
+	"Age": 78,
+	"Contact": "6464646464",
+	"Company": "golang dev community",
+	"Address": {
+		"City": "san francisco",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 456224
+	}
+}

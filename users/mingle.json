@@ -1,0 +1,12 @@
+{
+	"Name": "mingle",
+	"Age": 16,
+	"Contact": "6464646464",
+	"Company": "Google",
+	"Address": {
+		"City": "banglore",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 456224
+	}
+}
